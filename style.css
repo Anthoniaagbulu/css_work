@@ -1,0 +1,55 @@
+body {
+ background-color: darkred;
+}
+body{
+    color: white;
+}
+body{
+    text-align: center;
+}
+body{
+    font-size: larger;
+}
+ul{
+    font-family: "times new roman";color: white; font-size: 18px; text-align: center; list-style-position: inside;
+    text: indent 10px;
+} 
+.container {
+    text-align: center;
+}
+.myUL {
+    display: inline-block; 
+    text-align: left;
+}
+h4{
+    color: gainsboro;
+    font-size: large;
+}
+.imgA1{
+    position:relative;
+     top: 3px;
+      align-items:center;
+       width: 1000px;
+       z-index: 2;
+        filter: drop-shadow(0 0 0);
+         color: maroon;
+          opacity: 0.4;
+ }
+    .imgB1 {
+        position:absolute;
+         top: 3px;
+          align-items: center;
+           left: 400px;
+            height: 30%;
+             width: 50%;
+              z-index: 2;
+    }
+    h4{
+        font-family: 'Times New Roman'; color: white;
+        font-size: 18px; text-align: center;
+    }
+    .two {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+    }
